@@ -6,6 +6,10 @@ In this project, I conducted an analysis of world life expectancy data with the 
 ## Objective 
 The main goal for this project was to clean the data and perform an exploratory analysis to understand the underlying patterns and correlations between different variables. This exploration extended to calculating averages and examining the relationships between life expectancy and various socio-economic factors.
 
+## Data 
+- Excel Dataset [See It!](https://github.com/SophiaBuseski/World-Life-Expectancy/blob/main/WLF%20Data.csv)
+- Raw Code [See It!](https://github.com/SophiaBuseski/World-Life-Expectancy/blob/main/WLF%20Code) 
+
 ## Methodology 
   ### 1. Data Cleaning: 
   I initiated the project with a thorough data cleaning process. This process began with loading and initial inspections of data. Then I went to handle any missing values, correct data types, and ensure consistency across the dataset with formatting.
@@ -35,7 +39,3 @@ The main goal for this project was to clean the data and perform an exploratory 
 The insights from this project highlight the critical role of economic development and infrastructure in improving life expectancy. These findings can be valuable for policymakers and health organizations aiming to enhance life expectancy rates by focusing on economic growth, infrastructure development, and health interventions. Additionally, this analysis provides a foundational understanding of how socio-economic factors influence longevity, which can guide future research and policy formulation.
 
 By leveraging SQL for data exploration and analysis, this project underscores the importance of robust data handling and analytical skills in deriving actionable insights from complex datasets.
-
-## Data 
-- Excel Dataset [See It!](https://github.com/SophiaBuseski/World-Life-Expectancy/blob/main/WLF%20Data.csv)
-- Raw Code [See It!](https://github.com/SophiaBuseski/World-Life-Expectancy/blob/main/WLF%20Code) 
