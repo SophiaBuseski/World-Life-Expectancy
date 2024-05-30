@@ -37,4 +37,5 @@ The insights from this project highlight the critical role of economic developme
 By leveraging SQL for data exploration and analysis, this project underscores the importance of robust data handling and analytical skills in deriving actionable insights from complex datasets.
 
 ## Data 
-- Excel Dataset [download here](WorldLifeExpectancy.csv)
+- Excel Dataset [See It!](https://github.com/SophiaBuseski/World-Life-Expectancy/blob/main/WLF%20Data.csv)
+- Raw Code [See It!](https://github.com/SophiaBuseski/World-Life-Expectancy/blob/main/WLF%20Code) 
